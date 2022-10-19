@@ -3,9 +3,9 @@
 | Goblin | Event |
 | ------ | ----- |
 | Monday | |
-| Tuesday | Action plan submission |
-| Wednesday | Action plan resolution |
-| Thursday | |
+| Tuesday | |
+| Wednesday | Action plan submission |
+| Thursday | Action plan resolution |
 | Friday | |
 | Saturday |Action plan submission |
-| Sunday | Action plan resolution |
+| Sunday | |
