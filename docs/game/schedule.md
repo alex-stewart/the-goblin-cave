@@ -8,4 +8,4 @@
 | Thursday | Action plan resolution |
 | Friday | |
 | Saturday |Action plan submission |
-| Sunday | |
+| Sunday | Action plan resolution |
