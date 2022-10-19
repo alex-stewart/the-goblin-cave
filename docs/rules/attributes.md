@@ -6,14 +6,14 @@ Goblin attributes are public information.
 
 ## Goblin Attributes
 
-### Brawn
+### Brawn :material-arm-flex:
 Brawn is a goblin’s ability to overcome obstacles with brute force. 
 For example, raiding a farm or fighting other goblins for leadership.
 
-### Nimble
+### Nimble :material-foot-print:
 Numble is a goblin’s ability to overcome obstacles with agility and stealth.
 For example, hunting boars for meat or attempting an assassination.
 
-### Cunning
+### Cunning :material-brain:
 Cunning is a goblin’s ability to overcome obstacles with intelligence.
 For example, building traps or scouting for new resources.
