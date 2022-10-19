@@ -1,0 +1,47 @@
+site_name: The Goblin Cave
+theme:
+  name: material
+  icon:
+    logo: material/emoticon-devil
+  font:
+    text:  Della Respira
+  palette:
+  - scheme: default
+    primary: brown
+    accent: green
+    toggle:
+      icon: material/brightness-7 
+      name: Switch to dark mode
+  - scheme: slate
+    primary: brown
+    accent: green
+    toggle:
+      icon: material/brightness-4
+      name: Switch to light mode
+  features:
+    - toc.integrate 
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+copyright: Copyright &copy; 2022 Alex Stewart
+plugins:
+  - search
+extra_css:
+  - stylesheets/extra.css
+markdown_extensions:
+  - tables
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji 
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+nav:
+  - Home: index.md
+  - Rules:
+    - Overview: rules/overview.md
+    - Goblins: rules/goblins.md
+    - Attributes: rules/attributes.md
+    - Agendas: rules/agendas.md
+    - Action Plans: rules/action_plans.md
+  - The Goblin Cave:
+    - Goblins: game/goblins.md
+    - Goblin Code: game/goblin_code.md
+    - Maps: game/maps.md
