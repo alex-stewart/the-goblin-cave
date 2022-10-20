@@ -42,10 +42,10 @@ nav:
     - Action Plans: rules/action_plans.md
     - Minor Actions: rules/minor_actions.md
   - The Goblin Cave:
-    - Schedule: game/schedule.md
     - Goblins: game/goblins.md
     - Maps: game/maps.md
     - Timeline: game/timeline.md
+    - Schedule: game/schedule.md
   - Lore:
     - Goblins: lore/goblins.md
     - The Goblin God: lore/goblin_god.md
