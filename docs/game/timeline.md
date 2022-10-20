@@ -17,7 +17,7 @@ Then there was lightness.
 But somewhere in-between, there was dimness.
 In the dimness, there was also few sensations, but a whisper.
 The goblin god with their goblin tongue speaks your goblin name. 
-I am the God of Ordered Chaos. Survive, fulfil my desires and be rewarded. Follow your code. 
+**I am the God of Ordered Chaos. Survive, fulfil my desires and be rewarded. Follow your code.**
 
 Emerging one by one from a mud-filled trough made from a dark thick stone, the tribe is spawned into a flat empty cave of uniform height. 
 The room is lit only by the 1m² wide opening to the south in the day, and by the incandescent brown glow of the spawning mud at night.
