@@ -1,7 +1,12 @@
 # Timeline
 
+## Goblin Day 3
+
 ## Goblin Day 1
 
+Some goblins return with mushrooms (8 goblin food units) and handfuls of dirt which is piled in a mound of 1m² in the cave. The goblins tear apart, squish and chew up the mushrooms in different ways and bury them in the mound. The goblins watch the patch closely overnight, but nothing happens.
+
+Returning from the adventure to the settlement, goblins return with a sack of apples (12 goblin food units), two strings of sausages (4 goblin food units), two fishing harpoons, a large iron knife, a hammer, and a large but tangled fishing net.
 
 
 ## Goblin Day 0
