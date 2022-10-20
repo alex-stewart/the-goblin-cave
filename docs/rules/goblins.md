@@ -11,6 +11,7 @@ A goblin which dies is removed from the game, the player may be given the choice
 
 ## Hunger
 Without food, goblins will die, one unit of food will feed a single goblin for a week.
+At the end of the week the Game Master will determine which goblins have died of starvation.
 Players must declare that they are eating as a minor action, as the Game Master cannot assume players are sharing nicely.
 
 ## Sleep
