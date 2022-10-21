@@ -12,7 +12,7 @@
 | Graznag the Goatsnatcher |:material-arm-flex::material-arm-flex::material-arm-flex::material-arm-flex: | :material-foot-print::material-foot-print::material-foot-print::material-foot-print: | :material-brain::material-brain: |
 | Gnobbins | :material-arm-flex::material-arm-flex::material-arm-flex::material-arm-flex: | :material-foot-print::material-foot-print::material-foot-print: | :material-brain::material-brain: |
 | Gribble | :material-arm-flex::material-arm-flex::material-arm-flex: | :material-foot-print: | :material-brain::material-brain::material-brain: |
-| Skrunkle | :material-arm-flex::material-arm-flex::material-arm-flex::material-arm-flex: | :material-foot-print::material-foot-print::material-foot-print::material-foot-print: | :material-brain::material-brain: |
+| Mabel | :material-arm-flex::material-arm-flex::material-arm-flex::material-arm-flex: | :material-foot-print::material-foot-print::material-foot-print::material-foot-print: | :material-brain::material-brain: |
 | Flarhgunnstow | :material-arm-flex::material-arm-flex::material-arm-flex: | :material-foot-print: | :material-brain::material-brain::material-brain::material-brain: |
 | Borkle | :material-arm-flex::material-arm-flex: | :material-foot-print::material-foot-print::material-foot-print::material-foot-print: | :material-brain: |
 
