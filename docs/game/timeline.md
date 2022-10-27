@@ -2,6 +2,16 @@
 
 ## Goblin Day 3
 
+The larger group of goblins gather sticks and rocks from the woods and spend the day making some crude goblin hammers. They harvest 2 food units of mushrooms from the patch.
+
+Borkle returns to the cave at night with a sack containing something.
+
+Snagrot and Spraynard return to the cave at night with two spoons, a tin mug and a small rug.
+Snagrot is missing their left arm.
+
+Humblebrug, Mabel and Gooby spend most of the day collecting rocks and moss, they are the last to return. They return with 5 goblin-head sized rocks, and 6 goblin-arm sized pieces of moss.
+
+
 ## Goblin Day 1
 
 Some goblins return with mushrooms (8 goblin food units) and handfuls of dirt which is piled in a mound of 1m² in the cave. The goblins tear apart, squish and chew up the mushrooms in different ways and bury them in the mound. The goblins watch the patch closely overnight, but nothing happens.
