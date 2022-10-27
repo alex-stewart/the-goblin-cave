@@ -11,6 +11,13 @@ Snagrot is missing their left arm.
 
 Humblebrug, Mabel and Gooby spend most of the day collecting rocks and moss, they are the last to return. They return with 5 goblin-head sized rocks, and 6 goblin-arm sized pieces of moss.
 
+## Goblin Day 2
+
+The group of goblins tending to the mushrooms in the cave conclude the mushrooms aren’t ready to be harvested yet.
+
+The team of goblins returns from the fishing trip with two empty sacks, a large green fish (2 goblin food units) and four smaller blue fish (1 goblin food unit each). 
+Snagrot leaves and returns alone.
+
 
 ## Goblin Day 1
 
