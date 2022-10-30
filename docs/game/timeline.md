@@ -5,7 +5,7 @@
 Humblebrug spends the day in the cave making 11 beds of mud and moss.
 
 The large group of goblins returns back to the cave with two goats in their net. Spraynard does not return. 
-The goblins get together and perform their sacrificial ritual, killing the goats and spilling the guts into the spawning pool. The pool bubbles and glows. 
+The goblins get together and perform their sacrificial ritual, killing the goats and spilling the guts into the spawning pit. The pit bubbles and glows. 
 The goblins butcher the two goats, and salvage 2 goat furs, 12 goat bones, 2 goat skulls and 16 food units of raw goat meat.
 After a busy day, the goblins have little time left to tend to the mushrooms. There is little required tending today and the goblins harvest nothing.
 
