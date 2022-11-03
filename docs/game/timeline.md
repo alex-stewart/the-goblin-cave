@@ -1,5 +1,17 @@
 # Timeline
 
+## Goblin Day 5
+
+A group of goblins led by Snagrot spend the morning hastily making crude bone stabby things, before leaving in the afternoon to hunt.
+
+A group of goblins led by Sraagkagz returns to the cave and carefully craft some pointy bone sticks using resources gathered outside.
+
+Mabel and the group of goblins led by Sraagkagz help to move a large flat boulder into the cave.
+
+Gribble spends the day investigating the cave.
+
+Flarhgunnstow and Graznag return to the cave late into the night. 
+
 ## Goblin Day 4
 
 Humblebrug spends the day in the cave making 11 beds of mud and moss.
