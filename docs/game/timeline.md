@@ -1,5 +1,17 @@
 # Timeline
 
+## Goblin Day 6
+
+The group of goblins led by Gnobbins returns to the cave with the two goblin corpses, dragging the defeated bear behind them. Rotsnag returns to the cave shortly after. Some goblins return the goblin corpses to the spawning pool and prays, the pool bubbles for a prolonged period of time.  Whilst, some goblins butcher the bear corpse, extracting 10 raw bear meat, 6 large bear bones, 20 small bear bones, 2 horned bear horns and 6 patches of bear fur.
+
+Borkle returns to the cave.
+
+The group lead by Gnobbins spends some time at the table attaching the two horns to Gnobbin’s bone spear, making a weapon resembling a large fork.
+
+Gobby and Mabel return to the cave.
+The goblins lead by Gnobbins, tend to the mushrooms, harvesting 4 mushrooms.
+
+
 ## Goblin Day 5
 
 A group of goblins led by Snagrot spend the morning hastily making crude bone stabby things, before leaving in the afternoon to hunt.
