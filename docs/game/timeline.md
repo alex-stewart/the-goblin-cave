@@ -1,5 +1,17 @@
 # Timeline
 
+## Goblin Day 7
+
+Gribble collects some more stinky woodland dirt and helps Shroomer build a more sustainable farm.
+
+Skaggygroo and the cunning goblins stay behind collecting firewood and dry moss and light enough fire sticks for all the goblins.
+
+The fire sticks are shared around, and Humblebrug provides their horned goblin spear to Rotsnag. The goblins all wait for nightfall, and travel to the village.
+
+At the goblin cave, a group of four invaders appear in the night with swords, torches and some wooden arrow shooter. They catch the defenceless Humblebrug and Shroomer and chop off their heads, before anybody can react. Gribble uses a concealed sharp stone and stabs one invader, buying enough time to escape with the ever-cautious Sraagkagz. The invaders loot anything valuable, and destroy everything else, leaving only the dim light of the spawning pool behind.
+
+The warring party returns to the cave with some loot.
+
 ## Goblin Day 6
 
 The group of goblins led by Gnobbins returns to the cave with the two goblin corpses, dragging the defeated bear behind them. Rotsnag returns to the cave shortly after. Some goblins return the goblin corpses to the spawning pool and prays, the pool bubbles for a prolonged period of time.  Whilst, some goblins butcher the bear corpse, extracting 10 raw bear meat, 6 large bear bones, 20 small bear bones, 2 horned bear horns and 6 patches of bear fur.
