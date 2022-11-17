@@ -10,7 +10,7 @@ The fire sticks are shared around, and Humblebrug provides their horned goblin s
 
 At the goblin cave, a group of four invaders appear in the night with swords, torches and some wooden arrow shooter. They catch the defenceless Humblebrug and Shroomer and chop off their heads, before anybody can react. Gribble uses a concealed sharp stone and stabs one invader, buying enough time to escape with the ever-cautious Sraagkagz. The invaders loot anything valuable, and destroy everything else, leaving only the dim light of the spawning pool behind.
 
-The warring party returns to the cave with some loot.
+The warring party returns to the cave with loot; 2 swords, one leather belt, one bed robe, 6 socks, 1 gold chain with jewels. A wooden crate containing 33 carrots (11 food units). And a second wooden crate containing 2 pickaxes, 2 hammers, one saw and 18 iron nails.
 
 ## Goblin Day 6
 
