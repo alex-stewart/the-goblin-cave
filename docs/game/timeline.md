@@ -1,5 +1,11 @@
 # Timeline
 
+## Goblin Day 8
+
+The group of goblins gather wood from the forest and stone from the mountain. The large stone table fits snugly in the cave entrance. The goblins successfully construct a hinged door with a mechanism which can be secured from the inside with a wooden bar. The goblins construct some pointy wooden pit traps around the cave entrance and disguise them with moss.
+
+The goblins tracking the invaders return, guided by Sraagkagz to avoid the traps.
+
 ## Goblin Day 7
 
 Gribble collects some more stinky woodland dirt and helps Shroomer build a more sustainable farm.
