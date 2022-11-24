@@ -1,12 +1,18 @@
 # Timeline
 
-## Goblin Day 8
+## Goblin Day 9
+
+The group of goblins in the cave camouflage themselves with mud and leaves and head to the nearby forest. They gather the stinky woodland mud, mushrooms and some rotting wood using their tools. They follow the lessons learnt from previous experiments to construct a small mushroom farm.
+
+The remaining goblins return to the cave late.
+
+## Goblin Day 9
 
 The group of goblins gather wood from the forest and stone from the mountain. The large stone table fits snugly in the cave entrance. The goblins successfully construct a hinged door with a mechanism which can be secured from the inside with a wooden bar. The goblins construct some pointy wooden pit traps around the cave entrance and disguise them with moss.
 
 The goblins tracking the invaders return, guided by Sraagkagz to avoid the traps.
 
-## Goblin Day 7
+## Goblin Day 8
 
 Gribble collects some more stinky woodland dirt and helps Shroomer build a more sustainable farm.
 
@@ -17,6 +23,14 @@ The fire sticks are shared around, and Humblebrug provides their horned goblin s
 At the goblin cave, a group of four invaders appear in the night with swords, torches and some wooden arrow shooter. They catch the defenceless Humblebrug and Shroomer and chop off their heads, before anybody can react. Gribble uses a concealed sharp stone and stabs one invader, buying enough time to escape with the ever-cautious Sraagkagz. The invaders loot anything valuable, and destroy everything else, leaving only the dim light of the spawning pool behind.
 
 The warring party returns to the cave with loot; 2 swords, one leather belt, one bed robe, 6 socks, 1 gold chain with jewels. A wooden crate containing 33 carrots (11 food units). And a second wooden crate containing 2 pickaxes, 2 hammers, one saw and 18 iron nails.
+
+## Goblin Day 7
+
+Graznag and Humblebrug return to the cave with 3 medium pink fish (3 food units total) and an old boot.
+The large group of villagers return to the cave, proud of themselves, holding a large sword and a stick of fire.
+Sraagkagz remains in the cave for the day tinkering with the knife and hammers, but fails to produce anything meaningful.
+
+Borkle does not return to the cave.
 
 ## Goblin Day 6
 
