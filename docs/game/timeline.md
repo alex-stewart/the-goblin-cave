@@ -1,6 +1,14 @@
 # Timeline
 
-## Goblin Day 9
+## Goblin Day 11
+
+The goblins search the area and find some grass and berries, and designate an area in the cave for Pat the goat. They fetch some sticky mud from near the river, and use it to patch up the gaps in the wooden crate. They cannot find the mug. They attempt to milk Pat regardless, after receiving multiple kicks to the face, the goblins eventually exhaust the goat. A small amount of goat milk is collected into the crate, the goblins add some mushroom spores to the liquid.
+
+The goblins begin chipping away into one of the cave walls using their pickaxes. Eventually, the wall begins to crumble as the goblins dig their way into a connecting natural cave. As the goblins step close to peek through the hole, many large spiders, the size of goblin heads, emerge from the hole and enter the goblin cave. The goblins make effective use of the spears and hammers to stab and splat the spiders. Gobby has their leg nibbled by a spider, Gribble delivers a strong blow with their hammer, shattering both the spider and the hammer into many pieces. Graznag uses their fishing net to capture one of the creatures alive. 
+
+After the spiders are dealt with, the goblins turn to find Rotsnag lying dead in a goblin bed.
+
+## Goblin Day 10
 
 The group of goblins in the cave camouflage themselves with mud and leaves and head to the nearby forest. They gather the stinky woodland mud, mushrooms and some rotting wood using their tools. They follow the lessons learnt from previous experiments to construct a small mushroom farm.
 
